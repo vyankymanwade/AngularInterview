@@ -1,0 +1,10 @@
+.child{
+    background-color: aqua;
+    padding: 10px;
+}
+
+:host{
+    border: 1px solid royalblue;
+    display: block;
+    padding: 3px;
+}
